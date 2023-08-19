@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sanyal3012@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/19MbtRnZ2QhvQi4oYlVAGQkKL4cMgnFwa/edit?usp=sharing&ouid=103453251859706985413&rtpof=true&sd=true](https://docs.google.com/document/d/19MbtRnZ2QhvQi4oYlVAGQkKL4cMgnFwa/edit?usp=sharing&ouid=103453251859706985413&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/19MbtRnZ2QhvQi4oYlVAGQkKL4cMgnFwa/edit?usp=sharing&ouid=103453251859706985413&rtpof=true&sd=true]
 
 - ⚡ Fun fact **the first computer programmer was a woman born in 1815**
 
