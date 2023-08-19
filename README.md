@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact **the first computer programmer was a woman born in 1815**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
