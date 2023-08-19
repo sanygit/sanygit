@@ -1,8 +1,6 @@
 ![logo](https://github.com/sanygit/sanygit/blob/main/github_banner.gif)
 <h1 align="center">Hi 👋, I'm SANYAL KUMAR</h1>
 <h3 align="center">A passionate full stack developer and Data analyst from India</h3>
-<img align="right" alt="coding" width +"500" src="![image](https://github.com/sanygit/sanygit/assets/136782724/425708fa-06d9-4fbf-b59b-126595021937)
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanygit&label=Profile%20views&color=0e75b6&style=flat" alt="sanygit" /> </p>
 
