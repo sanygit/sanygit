@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **project on Web D. and Data Science**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/sanygit)
+- 👨‍💻 All of my projects are available at [github](https://github.com/sanygit?tab=repositories)
 
 - 📫 How to reach me [CONTACT US](sanyal3012@gmail.com)
 
