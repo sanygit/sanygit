@@ -1,3 +1,41 @@
+## GIF Slider Example
+
+<div id="slider">
+  <img src="gif1.gif" alt="GIF 1">
+  <img src="gif2.gif" alt="GIF 2">
+  <img src="gif3.gif" alt="GIF 3">
+</div>
+
+<button id="prevButton">Previous</button>
+<button id="nextButton">Next</button>
+
+<script>
+  let currentIndex = 0;
+  const gifs = document.querySelectorAll("#slider img");
+  const prevButton = document.getElementById("prevButton");
+  const nextButton = document.getElementById("nextButton");
+
+  function showGIF(index) {
+    gifs.forEach(gif => gif.style.display = "none");
+    gifs[index].style.display = "block";
+  }
+
+  function nextGIF() {
+    currentIndex = (currentIndex + 1) % gifs.length;
+    showGIF(currentIndex);
+  }
+
+  function prevGIF() {
+    currentIndex = (currentIndex - 1 + gifs.length) % gifs.length;
+    showGIF(currentIndex);
+  }
+
+  prevButton.addEventListener("click", prevGIF);
+  nextButton.addEventListener("click", nextGIF);
+
+  showGIF(currentIndex);
+</script>
+
 ![logo](https://github.com/sanygit/sanygit/blob/main/github_banner.gif)
 <h1 align="center">Hi 👋, I'm SANYAL KUMAR</h1>
 <h3 align="center">A passionate full stack developer and Data analyst from India</h3>
