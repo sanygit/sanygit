@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/sanygit?tab=repositories)
 
-- 👨‍💻 All about me [Linkdin Profile ](https://www.linkedin.com/in/sanyalkumar/)
+- 👨‍💻 All about me [Linkdin Profile ](https://www.linkedin.com/in/sanyalku/)
 
 - 📫 How to reach me [CONTACT US](sanyal3012@gmail.com)
 
