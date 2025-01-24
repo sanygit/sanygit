@@ -14,7 +14,7 @@
 
 - 📫 How to reach me [CONTACT US](sanyal3012@gmail.com)
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ih_B-QVhKCyidh1Y7IYjsjkx5dGnUe-h/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ZSfntMQjSeLodwP-dyKP1PgkPLNkCZuj/view?usp=drive_link)
 
 - ⚡ Fun fact **the first computer programmer was a woman born in 1815**
 
